@@ -1,0 +1,28 @@
+{
+  "name": "five-minute-react-starter",
+  "version": "1.0.0",
+  "description": "in under 5 minutes create a lightweight react starter app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davjohnsonGH/five-minute-react-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davjohnsonGH/five-minute-react-starter/issues"
+  },
+  "homepage": "https://github.com/davjohnsonGH/five-minute-react-starter#readme",
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
